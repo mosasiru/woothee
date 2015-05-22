@@ -28,6 +28,10 @@
   type: browser
   vendor: Fenrir Inc.
 
+- label: Webview
+  name: Webview
+  type: browser
+
 - label: Win
   name: Windows UNKNOWN Ver
   type: os
@@ -324,6 +328,11 @@
   type: full
   category: crawler
 
+- label: GoogleSiteVerification
+  name: Google Site Verification
+  type: full
+  category: crawler
+
 - label: GoogleFeedFetcher
   name: Google Feedfetcher
   type: full
@@ -384,6 +393,11 @@
   type: full
   category: crawler
 
+- label: twitter
+  name: twitter
+  type: full
+  category: crawler
+
 - label: mixi
   name: mixi
   type: full
@@ -424,8 +438,33 @@
   type: full
   category: crawler
 
+- label: Prismatic
+  name: Prismatic
+  type: full
+  category: crawler
+
+- label: iCoreService
+  name: iCoreService
+  type: full
+  category: crawler
+
+- label: TweetmemeBot
+  name: TweetmemeBot
+  type: full
+  category: crawler
+
+- label: ltx71
+  name: ltx71
+  type: full
+  category: crawler
+
 - label: Hatena
   name: Hatena
+  type: full
+  category: crawler
+
+- label: LINE
+  name: LINE
   type: full
   category: crawler
 
